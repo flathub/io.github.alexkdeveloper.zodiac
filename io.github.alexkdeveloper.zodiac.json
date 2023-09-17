@@ -205,8 +205,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/alexkdeveloper/zodiac.git",
-                    "tag": "1.0.0",
-                    "commit": "aa7be23ae82d45096cc4dd0696a1c947190b6fc5"
+                    "tag": "1.0.1"
                 }
             ]
         }
